@@ -1,0 +1,6 @@
+customer_id,customer_name,country,signup_date
+1,Alice,Ireland,2023-11-01
+2,Bob,Ireland,
+3,Charlie,Spain,
+4,Unknown,Ireland,2023-12-20
+5,Eva,Unknown,2024-01-01
