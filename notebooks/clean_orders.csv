@@ -1,3 +1,0 @@
-order_id,customer_id,order_date,product_id,quantity,unit_price,revenue,cost,total_cost,profit,margin_pct
-1001,1,2024-01-05,101,1,19.99,19.99,8.5,8.5,11.489999999999998,0.5747873936968484
-1006,5,2024-01-10,101,1,19.99,19.99,8.5,8.5,11.489999999999998,0.5747873936968484
